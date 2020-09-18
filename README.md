@@ -4,6 +4,11 @@
 
 Personal Portfolio, few free to update and use for your personal portfolio.
 
+<p align="center"><b>Screenshot</b></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abnersouza/portfolio/master/public/images/abnersouza.png" alt="Portfolio" />
+</p>
+
 ## 🛠 Tech Stack
 
 The list of the main techs used in this project.
@@ -28,15 +33,21 @@ Clone the Repository:
 git clone https://github.com/abnersouza/portfolio.git
 ```
 
-### Start
+### How to use
 
-Open the cloned repository and navigate to the root folder
+Inside the public folder update with your personal information the following files:
 
-```
-cd ./portfolio
-```
+- public/index.html # Title and MetaTags.
 
-#### Start
+- public/resumeData.json # All the information data for the portfolio.
+
+- public/Abner-Souza-CV.pdf # Remove and add your own curriculum in a pdf format.
+
+- public/images/abner-souza.jpeg # Add your own profile picture
+
+- public/images/abnersouza.png #add your own portfolio screenshot
+
+### How to run/build
 
 ```bash
 # Navigate to root directory
@@ -53,7 +64,7 @@ cd ./portfolio
 
 ```
 
-#### Open your browser
+### Open your browser
 
 ```
 http://localhost:3000
@@ -61,4 +72,4 @@ http://localhost:3000
 
 ## 📜 License
 
-This project is under MIT License
+This project is under [MIT License](https://github.com/abnersouza/portfolio/blob/master/LICENSE)
