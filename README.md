@@ -45,7 +45,7 @@ Inside the public folder update with your personal information the following fil
 
 - public/images/abner-souza.jpeg # Add your own profile picture
 
-- public/images/abnersouza.png #add your own portfolio screenshot
+- public/images/abnersouza.png # Add your own portfolio screenshot
 
 ### How to run/build
 
