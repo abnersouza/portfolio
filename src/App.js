@@ -11,12 +11,12 @@ import Recommendations from './Components/Recommendations';
 const App = () => {
   const [state, setState] = useState(null);
 
-  async function fetchUserData() {
-    const response = await fetch("/resumeData.json");
-    setState(await response.json());
-  }
-
   useEffect(() => {
+    async function fetchUserData() {
+      const response = await fetch("/resumeData.json");
+      setState(await response.json());
+    }
+
     fetchUserData();
   }, [])
 
