@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Abner Souza",
+    "occupation": "Full Stack Developer",
+    "description": "Sometimes Frontend, Sometimes Backend, Always Developer",
+    "image": "abner-souza.jpeg",
+    "bio": "A passionate full-stack developer that has successfully completed commercial and solo projects in C#, JavaScript, Typescript, Laravel, .Net, Angular, React, Node.js, PWA, AWS, and Azure Cloud Services and many other technologies. Able to work as part of a team to complete large projects or work on solo satellite projects with minimum supervision.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "abnersouza@outlook.com",
+    "phone": "+55 11 95231-2844",
+    "address": {
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "BRAZIL"
+    },
+    "website": "https://www.abnersouza.dev",
+    "resume_download": "Abner-Souza-CV.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abnerssouza/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abnersouza",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abnersouza/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "FATEC",
+        "degree": "Bachelor's Degree in Digital Game Development",
+        "graduated": "December 2012",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "PES - Process Engineering Specialists",
+        "title": "Full Stack Engineer - Remote in Brazil",
+        "years": "April 2019 - Present",
+        "description": "Develop and Delivery high-quality front-end and back-end application very well documented. Responsible for the full cycle development, using CI (Continuous Integration) with automated tests and CD (Continuous Delivery).",
+        "stack": "PHP Laravel Framework with MySQL, Vue.js, JQuery, Azure DevOps for CI/CD, Forge, Docker, AWS Services S3 and EC2"
+      },
+      {
+        "company": "Rocket Direction",
+        "title": "CTO & Software Engineer - Remote in Brazil",
+        "years": "Jan 2017 - Feb 2020",
+        "description": "Responsible for the entire application architecture. Developing in a great stack using the latest frameworks available. Working in both front-end with Typescript and Node.js in the back-end, also implementing and making use of many PWA features.",
+        "stack": "Angular 2+, Typescript, PWA, SASS, Charts.js, JQuery, Node.js, MongoDB, Docker, Jasmine, and Karma"
+      },
+      {
+        "company": "Vitro Software formerly Sláinte Healthcare",
+        "title": "Full Stack Engineer - Ireland",
+        "years": "April 2014 - Feb 2019",
+        "description": "Working in a team with more than 16 Developers, in a very agile environment building a very customized software to generate complete systems inside the application. Scrum Master in the team.",
+        "stack": "TypeScript, Kendo.UI, .Net Framework, WCF, OData, Silverlight, Signal-R, Mocha and SQL Server."
+      }
+    ],
+    "skill_message": "I love javascript frameworks and libraries such as Angular, React and Node.JS",
+    "skills": [
+      {
+        "name": "Typescript",
+        "level": "90%"
+      },
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js",
+        "level": "90%"
+      },
+      {
+        "name": "React.JS",
+        "level": "70%"
+      },
+      {
+        "name": "C#",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "90%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "70%"
+      },
+      {
+        "name": "Jest",
+        "level": "70%"
+      },
+      {
+        "name": "PWA",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Study Platform",
+        "category": "A study platform built with Typescript, Node.JS, Express.JS, React.JS and React Native",
+        "image": "proffy.png",
+        "url": "https://github.com/abnersouza/proffy"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with React, Node.JS, Express.JS, Firestore, Firebase Functions, Stripe",
+        "image": "amazon-clone.png",
+        "url": "https://a-mazon-clone.web.app"
+      },
+      {
+        "title": "Microservices Ticket App",
+        "category": "Microservices ticketing app build with Node.JS, Typescript, Express, Nats, Mongo, JWT, Stripe, Docker and Kubernetes",
+        "image": "micro-ticket.png",
+        "url": "https://github.com/abnersouza/ticketing"
+      }
+    ]
+  },
+  "recommendations": {
+    "recommendations": [
+      {
+        "text": "Abner has a can do attitude with due consideration and concern for the delivering the best for the client - understanding the requirements, capturing the workflows and user experience, prototyping innovative solutions, agreeing detailed specifications, building the necessary assets to fulfil the requirements, with integrated testing and CI/CD follow-up to production. Abner will mentor and lead your junior engineers while dealing with complex client demands - gathering the team to deliver the roadmap. He's the first choice for any team",
+        "user": "William Diggin - Director of Technology & Engineering @ The Dock - Accenture's Global Centre for Innovation"
+      },
+      {
+        "text": "Abner's superb attitude and infectious enthusiasm was attractive when we hired him in Vitro. Subsequently his sheer high level of competence in the role meant he became an instant hit in our engineering team. Abner is able to consider the needs behind the specs, and apply appropriate review processes that enable demanding targets be hit with high quality output. He became a 'go-to' person for more junior engineers and has developed his skills further since then. Would be an asset to any team and I would highly recommend.",
+        "user": "Andrew Murphy - Partner erisbeg | Co-Founder & Executive Chairman Robotify | Director Medray IE&UK | Director HealthXL | Previous Founder Claimsure (InsureTech, HealthTech) | Founder Vitro (Digital Health) | Mentor & Advisor"
+      }
+    ]
+  }
+}
